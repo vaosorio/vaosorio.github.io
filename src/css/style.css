@@ -1,0 +1,138 @@
+.background {
+   background-color:#ffff; 
+  
+}
+.navbar-brand{
+    width: 30%;
+}
+#background-texto{
+    background-color: #161515;
+    opacity: 90%%;
+    margin: 0;
+    width: 100%;
+
+}
+.imagem-carrossel {
+    object-fit: cover;
+    height: 400px;
+    opacity: 50%;
+}
+
+.fonte-texto {
+    font-family:'Open Sans Condensed', 
+    sans-serif, Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-style: normal;
+   
+}
+.fonte-titulo-carrossel {
+    font-family:  'Open Sans Condensed', 
+    sans-serif, Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 50px;
+    font-style: normal;
+
+    
+}
+.fonte-article{
+    font-family:  'Open Sans Condensed', 
+    sans-serif, Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 60px;
+    font-style: normal;
+    margin-left: 10px;
+    margin-right: 10px;
+    color:#161515
+
+}
+#fonte-article-menor{
+    font-family:  'Open Sans Condensed', 
+    sans-serif, Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    font-style: normal;
+    margin: 30px;
+    padding: 30px;
+    color:#161515;
+    line-height: 40px;
+
+
+}
+.row {
+    background-color: #ffff;
+}
+
+.fonte-titulo-card {
+    font-family: 'Open Sans Condensed', 
+    sans-serif, Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: bolder;
+    color: #161515;
+}
+
+.fonte-texto-card-footer {
+    font-family: 'Open Sans Condensed', 
+    sans-serif, Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+.imagem-card {
+    object-fit: cover;
+    height: 286px;
+}
+
+.modal-box-title{
+    text-align: center;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-family:  'Open Sans Condensed', 
+    sans-serif, Arial, Helvetica, sans-serif;
+    font-style: normal;
+    text-transform: uppercase;
+    font-size: 20px;
+    font-weight: bold;
+    color:#161515;
+
+}
+.modal-box-fonte{
+    text-align: center;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-family:  'Open Sans Condensed', 
+    sans-serif, 
+    Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    color:#161515;
+}
+.box-fonte{
+    font-family:  'Open Sans Condensed', 
+    sans-serif, Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    color:#161515;
+}
+ .modal-rodape-font{
+    text-align: center;
+    font-family:  'Open Sans Condensed', 
+    sans-serif, Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 15px;
+    font-style: normal;
+    color:#161515;
+} 
+.fonte-texto-card-footer{
+    font-size: 25px;
+}
+.m-3{
+    color: #161515;
+}
+
+#footer-redes {
+    font-size: 3em;
+   
+}
+.fonte-texto-footer{
+    font-family:  'Open Sans Condensed', 
+    sans-serif, Arial, Helvetica, sans-serif;
+ font-size: 20px;
+ padding-bottom: 30px;
+}
